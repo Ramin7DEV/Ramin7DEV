@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="414" viewBox="0 0 1600 414" role="img" aria-label="stack">
 <defs></defs>
+<rect width="1600" height="414" fill="#08090A"/>
 <text x="80" y="58" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="4" fill="#D3AA69">MOBILE</text>
 <rect x="330" y="26" width="100" height="48" rx="24" fill="rgba(237,233,223,0.05)" stroke="rgba(237,233,223,0.22)"/><text x="380.0" y="57" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#EDE9DF" text-anchor="middle">Swift</text>
 <rect x="444" y="26" width="125" height="48" rx="24" fill="rgba(237,233,223,0.05)" stroke="rgba(237,233,223,0.22)"/><text x="506.5" y="57" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#EDE9DF" text-anchor="middle">SwiftUI</text>

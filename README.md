@@ -1,15 +1,12 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Ramin Bakhshalıyev. Mobile and AI Product Builder in Baku. I turn ideas into products that ship." width="100%">
-</picture>
+<img src="assets/banner-dark.svg" alt="Ramin Bakhshalıyev. Mobile and AI Product Builder in Baku. I turn ideas into products that ship." width="100%">
 
 <br>
 
-<a href="https://raminbakhshaliyev.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-site-dark.svg"><img src="assets/pill-site-light.svg" alt="Portfolio: raminbakhshaliyev.com" height="52"></picture></a>
-<a href="https://www.linkedin.com/in/raminbakhshaliyev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-linkedin-dark.svg"><img src="assets/pill-linkedin-light.svg" alt="LinkedIn: in/raminbakhshaliyev" height="52"></picture></a>
-<a href="mailto:raminbakhshaliyev@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-mail-dark.svg"><img src="assets/pill-mail-light.svg" alt="Email: raminbakhshaliyev@gmail.com" height="52"></picture></a>
+<a href="https://raminbakhshaliyev.com"><img src="assets/pill-site-dark.svg" alt="Portfolio: raminbakhshaliyev.com" height="52"></a>
+<a href="https://www.linkedin.com/in/raminbakhshaliyev"><img src="assets/pill-linkedin-dark.svg" alt="LinkedIn: in/raminbakhshaliyev" height="52"></a>
+<a href="mailto:raminbakhshaliyev@gmail.com"><img src="assets/pill-mail-dark.svg" alt="Email: raminbakhshaliyev@gmail.com" height="52"></a>
 
 </div>
 
@@ -17,12 +14,9 @@
 
 I turn ideas into AI-powered products and automated workflows. I started on iOS apps and fintech products; today my focus is generative AI and coding agents. Currently an iOS developer at FitNest and a Flutter developer at Portmanat.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-work-dark.svg">
-  <img src="assets/section-work-light.svg" alt="01 Selected work" width="100%">
-</picture>
+<img src="assets/section-work-dark.svg" alt="01 Selected work" width="100%">
 
-<a href="https://raminbakhshaliyev.com/en/work/mirrorly"><img src="assets/card-mirrorly-dark.svg#gh-dark-mode-only" alt="Mirrorly, 2026, live on the App Store. AI virtual try-on for iPhone and iPad." width="100%"><img src="assets/card-mirrorly-light.svg#gh-light-mode-only" alt="" width="100%"></a>
+<a href="https://raminbakhshaliyev.com/en/work/mirrorly"><img src="assets/card-mirrorly-dark.svg" alt="Mirrorly, 2026, live on the App Store. AI virtual try-on for iPhone and iPad." width="100%"></a>
 
 <div align="center">
 <img src="assets/screens/mirrorly-tryon-upload.webp" alt="Mirrorly: upload your photo" width="18%">
@@ -36,7 +30,7 @@ I turn ideas into AI-powered products and automated workflows. I started on iOS 
 
 <br>
 
-<a href="https://raminbakhshaliyev.com/en/work/azerbaijan-tour-guide"><img src="assets/card-tour-dark.svg#gh-dark-mode-only" alt="Azerbaijan Tour Guide, 2025, prototype. AI plans a trip day by day on a map." width="100%"><img src="assets/card-tour-light.svg#gh-light-mode-only" alt="" width="100%"></a>
+<a href="https://raminbakhshaliyev.com/en/work/azerbaijan-tour-guide"><img src="assets/card-tour-dark.svg" alt="Azerbaijan Tour Guide, 2025, prototype. AI plans a trip day by day on a map." width="100%"></a>
 
 <div align="center">
 <img src="assets/screens/tour-screen-dates-2.webp" alt="Azerbaijan Tour Guide: choosing dates" width="18%">
@@ -48,7 +42,7 @@ I turn ideas into AI-powered products and automated workflows. I started on iOS 
 
 <br>
 
-<a href="https://raminbakhshaliyev.com/en/work/beauty-app"><img src="assets/card-beauty-dark.svg#gh-dark-mode-only" alt="BeautyApp, 2025, prototype. Salon booking with one app for clients and one for salon owners." width="100%"><img src="assets/card-beauty-light.svg#gh-light-mode-only" alt="" width="100%"></a>
+<a href="https://raminbakhshaliyev.com/en/work/beauty-app"><img src="assets/card-beauty-dark.svg" alt="BeautyApp, 2025, prototype. Salon booking with one app for clients and one for salon owners." width="100%"></a>
 
 <div align="center">
 <img src="assets/screens/beauty-screen-home.webp" alt="BeautyApp: nearby salons" width="18%">
@@ -60,22 +54,13 @@ I turn ideas into AI-powered products and automated workflows. I started on iOS 
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-stack-dark.svg">
-  <img src="assets/section-stack-light.svg" alt="02 Stack" width="100%">
-</picture>
+<img src="assets/section-stack-dark.svg" alt="02 Stack" width="100%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" alt="Stack. Mobile: Swift, SwiftUI, UIKit, Flutter, React Native, Expo. Backend: Supabase, Postgres, Edge Functions, RLS, Express. Web: Next.js, TypeScript, Tailwind. AI: LLM APIs, image generation, response validation, fallback models. Workflow: Claude Code, Codex, Gemini." width="100%">
-</picture>
+<img src="assets/stack-dark.svg" alt="Stack. Mobile: Swift, SwiftUI, UIKit, Flutter, React Native, Expo. Backend: Supabase, Postgres, Edge Functions, RLS, Express. Web: Next.js, TypeScript, Tailwind. AI: LLM APIs, image generation, response validation, fallback models. Workflow: Claude Code, Codex, Gemini." width="100%">
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-method-dark.svg">
-  <img src="assets/section-method-light.svg" alt="03 How I work" width="100%">
-</picture>
+<img src="assets/section-method-dark.svg" alt="03 How I work" width="100%">
 
 | Signal | System | Build | Ship |
 |---|---|---|---|
