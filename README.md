@@ -22,10 +22,7 @@ I turn ideas into AI-powered products and automated workflows. I started on iOS 
   <img src="assets/section-work-light.svg" alt="01 Selected work" width="100%">
 </picture>
 
-<a href="https://raminbakhshaliyev.com/en/work/mirrorly"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-mirrorly-dark.svg">
-  <img src="assets/card-mirrorly-light.svg" alt="Mirrorly, 2026, live on the App Store. AI virtual try-on for iPhone and iPad." width="100%">
-</picture></a>
+<a href="https://raminbakhshaliyev.com/en/work/mirrorly"><img src="assets/card-mirrorly-dark.svg#gh-dark-mode-only" alt="Mirrorly, 2026, live on the App Store. AI virtual try-on for iPhone and iPad." width="100%"><img src="assets/card-mirrorly-light.svg#gh-light-mode-only" alt="" width="100%"></a>
 
 <div align="center">
 <img src="assets/screens/mirrorly-tryon-upload.webp" alt="Mirrorly: upload your photo" width="18%">
@@ -39,10 +36,7 @@ I turn ideas into AI-powered products and automated workflows. I started on iOS 
 
 <br>
 
-<a href="https://raminbakhshaliyev.com/en/work/azerbaijan-tour-guide"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-tour-dark.svg">
-  <img src="assets/card-tour-light.svg" alt="Azerbaijan Tour Guide, 2025, prototype. AI plans a trip day by day on a map." width="100%">
-</picture></a>
+<a href="https://raminbakhshaliyev.com/en/work/azerbaijan-tour-guide"><img src="assets/card-tour-dark.svg#gh-dark-mode-only" alt="Azerbaijan Tour Guide, 2025, prototype. AI plans a trip day by day on a map." width="100%"><img src="assets/card-tour-light.svg#gh-light-mode-only" alt="" width="100%"></a>
 
 <div align="center">
 <img src="assets/screens/tour-screen-dates-2.webp" alt="Azerbaijan Tour Guide: choosing dates" width="18%">
@@ -54,10 +48,7 @@ I turn ideas into AI-powered products and automated workflows. I started on iOS 
 
 <br>
 
-<a href="https://raminbakhshaliyev.com/en/work/beauty-app"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-beauty-dark.svg">
-  <img src="assets/card-beauty-light.svg" alt="BeautyApp, 2025, prototype. Salon booking with one app for clients and one for salon owners." width="100%">
-</picture></a>
+<a href="https://raminbakhshaliyev.com/en/work/beauty-app"><img src="assets/card-beauty-dark.svg#gh-dark-mode-only" alt="BeautyApp, 2025, prototype. Salon booking with one app for clients and one for salon owners." width="100%"><img src="assets/card-beauty-light.svg#gh-light-mode-only" alt="" width="100%"></a>
 
 <div align="center">
 <img src="assets/screens/beauty-screen-home.webp" alt="BeautyApp: nearby salons" width="18%">
