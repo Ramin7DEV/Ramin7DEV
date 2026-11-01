@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="300" viewBox="0 0 1600 300" role="img" aria-label="card-beauty">
+<defs></defs>
+<rect x="0.5" y="0.5" width="1599" height="299" rx="14" fill="#FFFFFF" stroke="rgba(20,19,15,0.22)"/>
+<rect x="48" y="66" width="168" height="168" rx="20" fill="none" stroke="rgba(20,19,15,0.22)"/>
+<text x="132" y="172" font-family="Source Serif 4, Georgia, 'Times New Roman', serif" font-size="84" font-style="italic" fill="#8F6420" text-anchor="middle">03</text>
+<text x="264" y="86" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" letter-spacing="3.5" fill="#8F6420">2025  /  PROTOTYPE</text>
+<text x="262" y="152" font-family="Source Serif 4, Georgia, 'Times New Roman', serif" font-size="60" fill="#14130F" letter-spacing="-1.5">BeautyApp</text>
+<text x="264" y="198" font-family="Roboto Flex, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#4A463E">Find a nearby salon, pick a free slot and book without a phone call. One app for clients, one for salons.</text>
+<text x="264" y="232" font-family="Roboto Flex, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#4A463E">React Native and Expo apps, an Express API and a Supabase database; interface in three languages.</text>
+<text x="264" y="272" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" letter-spacing="2.5" fill="#7A746A">REACT NATIVE · EXPO · EXPRESS · SUPABASE · REDUX TOOLKIT · JWT</text>
+<text x="1552" y="86" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" letter-spacing="3" fill="#1B746E" text-anchor="end">CASE STUDY  →</text>
+</svg>
