@@ -25,7 +25,7 @@ I turn ideas into AI-powered products and automated workflows. I started on iOS 
 <img src="assets/screens/mirrorly-tryon-before.webp" alt="Mirrorly: the original photo" width="18%">
 <img src="assets/screens/mirrorly-tryon-after.webp" alt="Mirrorly: the same photo in the chosen outfit" width="18%">
 <br>
-<a href="https://apps.apple.com/az/app/mirrorly-ai/id6759640031"><b>Open Mirrorly on the App Store</b></a>
+<a href="https://apps.apple.com/az/app/mirrorly-ai/id6759640031"><b>Open Mirrorly on the App Store</b></a> &nbsp;·&nbsp; <a href="https://github.com/Ramin7DEV/mirrorly-ios"><b>Read the iOS source code</b></a>
 </div>
 
 <br>
