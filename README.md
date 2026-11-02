@@ -50,6 +50,8 @@ I turn ideas into AI-powered products and automated workflows. I started on iOS 
 <img src="assets/screens/beauty-screen-time.webp" alt="BeautyApp: choosing a free time" width="18%">
 <img src="assets/screens/beauty-screen-confirm.webp" alt="BeautyApp: booking confirmation" width="18%">
 <img src="assets/screens/beauty-screen-dash.webp" alt="BeautyApp: the salon owner's dashboard" width="18%">
+<br>
+<a href="https://github.com/Ramin7DEV/beauty-app"><b>Read the source code</b></a>
 </div>
 
 <br>
