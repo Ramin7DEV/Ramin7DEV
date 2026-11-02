@@ -38,6 +38,8 @@ I turn ideas into AI-powered products and automated workflows. I started on iOS 
 <img src="assets/screens/tour-screen-generating-2.webp" alt="Azerbaijan Tour Guide: the route is being generated" width="18%">
 <img src="assets/screens/tour-screen-map-2.webp" alt="Azerbaijan Tour Guide: the route on a map" width="18%">
 <img src="assets/screens/tour-screen-plan-2.webp" alt="Azerbaijan Tour Guide: the day-by-day plan" width="18%">
+<br>
+<a href="https://github.com/Ramin7DEV/tour-guide-ai"><b>Read the source code</b></a>
 </div>
 
 <br>
